@@ -4,7 +4,7 @@
 12.01.21
 
 ### Project Title
-Python Bikesharing Github Project
+Bikesharing Github Project
 
 ### Description
 This project is a continuation of the Python Data Analytics Projet and a project for git.
