@@ -13,7 +13,7 @@ This project is a continuation of the Python Data Analytics Projet and a project
 Bikeshare_Project.py is the main file used in this project
 
 ### Credits
-Udacity!
+Udacity!!!!!
 
 ### Branch
 documentation: associated with the project
