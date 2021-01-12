@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-=======
+
 ## This is the new README.me file!
 
 ### Date created
@@ -19,5 +18,4 @@ Udacity!!!!!
 
 ### Branch
 documentation: associated with the project
-Second branch: 
->>>>>>> documentation
+
