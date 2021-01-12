@@ -1,15 +1,17 @@
 ### Date created
-Include the date you created this project and README file.
+12.01.21
 
 ### Project Title
-Replace the Project Title
+Python Bikesharing Github Project
 
 ### Description
-Describe what your project is about and what it does
+This project is a continuation of the Python Data Analytics Projet and a project for git.
 
 ### Files used
-Include the files used
+Bikeshare_Project.py is the main file used in this project
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+Udacity!
 
+### Branch
+documentation: associated with the project
