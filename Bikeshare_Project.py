@@ -5,6 +5,10 @@ import pandas as pd
 from pandas.core.algorithms import value_counts
 from pandas.core.tools.datetimes import to_datetime
 
+
+def city_list():
+    return 
+
 CITY_DATA = {
     "chicago": pd.read_csv("chicago.csv"),
     "new york": pd.read_csv("new_york_city.csv"),
