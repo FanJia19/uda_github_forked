@@ -1,9 +1,9 @@
 import time
-import pandas as pd
+
 import numpy as np
+import pandas as pd
 from pandas.core.algorithms import value_counts
 from pandas.core.tools.datetimes import to_datetime
-
 
 CITY_DATA = {
     "chicago": pd.read_csv("chicago.csv"),
